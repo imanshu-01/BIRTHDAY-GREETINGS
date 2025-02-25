@@ -17,17 +17,13 @@ This project creates an interactive birthday greeting card with animated effects
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 
 # Getting Started
 
 1. Clone the repository to your local machine.
 2. Open the index.html file in a web browser.
 3. Customize the birthday message by editing the script.js file.
-
-# License
-
-This project is licensed under the MIT License.
 
 # Acknowledgments
 
